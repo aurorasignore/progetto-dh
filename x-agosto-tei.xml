@@ -1,0 +1,112 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="x-agosto-testo.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>X Agosto</title>
+				<author>Giovanni Pascoli</author>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Biblioteca Italiana</publisher>
+				<pubPlace>Roma</pubPlace>
+				<date>2004</date>
+				<idno>bibit001525</idno>
+				<availability>
+					<p>Questa risorsa digitale è liberamente accessibile per uso personale o scientifico. Ogni uso commerciale è vietato</p>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Collezione BibIt</title>
+			</seriesStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Poesie</title>
+					<title type="part">Myricae ; Primi poemetti</title>
+					<author>Pascoli, Giovanni</author>
+					<editor id="ed">Vicinelli, Augusto</editor>
+					<editor id="ed2">Contini, Gianfranco</editor>
+					<publisher>Mondadori</publisher>
+					<pubPlace>Milano</pubPlace>
+					<date>1997</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encoding>
+			<classDecl>
+				<taxonomy id="CGB">
+					<bibl>Classificazione generi BibIt</bibl>
+				</taxonomy>
+			</classDecl>
+		</encoding>
+		<profileDesc>
+			<creation>
+				<date>900</date>
+			</creation>
+			<langUsage>
+				<language id="ita">Italiano</language>
+				<language id="gre">Greco</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="CGB">
+					<term>Poesia</term>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date>2023-03-20T00:00:00.000+02:00</date>
+				<respStmt>
+					<resp>Marcatura</resp>
+					<name xml:id="AS">Aurora Signore</name>
+				</respStmt>	
+			</change>
+		</revisionDesc>
+	</teiHeader>
+
+	<!--https://teibyexample.org/TBE.htm usato per metadare poesia-->
+	<text>
+		<body>
+			<div type="poetry" resp="#AS">
+				<head>X Agosto</head>
+				<lg type="quatrain" resp="#AS">
+					<l rhyme="a" enjamb="yes" resp="#AS">San Lorenzo, io lo so perché <rhyme>tanto</rhyme></l>
+					<l rhyme="b" enjamb="yes" resp="#AS">di stelle per l'aria <rhyme>tranquilla</rhyme></l>
+					<l rhyme="a" enjamb="yes" resp="#AS">arde e cade, perché sì gran <rhyme>pianto</rhyme></l>
+					<l rhyme="b" enjamb="no" resp="#AS">nel concavo cielo <rhyme>sfavilla.</rhyme></l>
+			    </lg>
+				<lg type="quatrain" resp="#AS">
+					<l rhyme="c" enjamb="no" resp="#AS">Ritornava una rondine al <rhyme>tetto:</rhyme></l>
+					<l rhyme="d" enjamb="no" resp="#AS">l'uccisero: cadde tra <rhyme>spini:</rhyme></l>
+					<l rhyme="c" enjamb="no" resp="#AS">ella aveva nel becco un <rhyme>insetto:</rhyme></l>
+					<l rhyme="d" enjamb="no" resp="#AS">la cena de' suoi <rhyme>rondinini.</rhyme></l>
+				</lg>
+				<lg type="quatrain" resp="#AS">
+					<l rhyme="e" enjamb="yes" resp="#AS">Ora è là, come in croce, che <rhyme>tende</rhyme></l>
+					<l rhyme="f" enjamb="no" resp="#AS">quel verme a quel cielo <rhyme>lontano;</rhyme></l>
+					<l rhyme="e" enjamb="no" resp="#AS">e il suo nido è nell'ombra, che <rhyme>attende,</rhyme></l>
+					<l rhyme="f" enjamb="no" resp="#AS">che pigola sempre più <rhyme>piano.</rhyme></l>
+				</lg>
+				<lg type="quatrain" resp="#AS">
+					<l rhyme="g" enjamb="no" resp="#AS">Anche un uomo tornava al suo <rhyme>nido:</rhyme></l>
+					<l rhyme="h" enjamb="no" resp="#AS">l'uccisero: disse: <rhyme>Perdono;</rhyme></l>
+					<l rhyme="g" enjamb="no" resp="#AS">e restò negli aperti occhi un <rhyme>grido:</rhyme></l>
+					<l rhyme="h" enjamb="no" resp="#AS">portava due bambole in <rhyme>dono...</rhyme></l>
+				</lg>
+				<lg type="quatrain" resp="#AS">
+					<l rhyme="i" enjamb="no" resp="#AS">Ora là, nella casa <rhyme>romita,</rhyme></l>
+					<l rhyme="j" enjamb="no" resp="#AS">lo aspettano, aspettano in <rhyme>vano:</rhyme></l>
+					<l rhyme="i" enjamb="yes" resp="#AS">egli immobile, attonito, <rhyme>addita</rhyme></l>
+					<l rhyme="j" enjamb="no" resp="#AS">le bambole al cielo <rhyme>lontano.</rhyme></l>
+				</lg>
+				<lg type="quatrain" resp="#AS">
+					<l rhyme="k" enjamb="yes" resp="#AS">E tu, Cielo, dall'alto dei <rhyme>mondi</rhyme></l>
+					<l rhyme="l" enjamb="no" resp="#AS">sereni, infinito, <rhyme>immortale,</rhyme></l>
+					<l rhyme="k" enjamb="yes" resp="#AS">oh! d'un pianto di stelle lo <rhyme>inondi</rhyme></l>
+					<l rhyme="l" enjamb="no" resp="#AS">quest'atomo opaco del <rhyme>Male!</rhyme></l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

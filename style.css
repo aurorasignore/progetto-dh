@@ -1,0 +1,148 @@
+/* tutte le pagine */
+body {
+  background-color: rgba(0, 206, 113, 0.1);
+}
+
+
+.navbar-brand  {
+   font-family: 'Alex Brush';font-size: 40px
+}
+
+
+h2 {
+  font-family: Garamond, serif;
+  font-size: 40px;
+}
+
+footer  {
+  background-color: LightGray;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 30px;
+  text-align: left;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+/* Index */
+#G {
+  font-family: Garamond, serif;
+  font-size: 60px;
+}
+
+#centro{
+  margin-top: 100px;
+  background-color: rgb(210, 210, 210, 0.3);
+}
+
+
+#sfondointro {
+  background-color: #f0f0f0;
+  margin: 50px 50px 50px 50px;
+  padding: 25px 25px;
+}
+
+
+#intro {
+  font-family: Garamond, serif;
+  font-style: normal;
+  font-size: 20px
+}
+
+
+#card  {
+  margin-top: 5px;
+}
+
+
+.card-text-i  {
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+
+#tempo  {
+  margin-bottom: 40px;
+}
+
+
+.carousel-indicators  {
+  margin-right:  70px;
+  margin-left:  70px;
+}
+
+
+.foto  {
+  height: 500px;
+  width: 800px;
+  display: block;
+  margin:0 auto;
+}
+
+#carouselhome{
+  margin-top: 80px;
+}
+
+.carousel-caption  {
+  background-color: rgb(210, 210, 210, 0.3);
+  color: black;
+}
+
+
+/* Lista */
+#lato  {
+  padding-left: 25px;
+  padding-right: 10px;
+}
+
+.lista  {
+  height: 350px;
+}
+
+/* Persona */
+#persona {
+background-color: rgb(240, 240, 240);
+color: black;
+}
+
+/* Item */
+#item {
+background-color: rgb(240, 240, 240);
+color: black;
+}
+
+#immagine  {
+  max-width: 300px;
+  max-height:200px
+  margin: auto;
+}
+
+
+/* X Agosto */
+#testo  {
+  height: 700px;
+  width: 800px;
+  background: rgba(0, 128, 0, 0.3)
+
+}
+

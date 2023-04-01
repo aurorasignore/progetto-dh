@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mp:metadata xmlns:mp="http://example.org/MyProject/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://example.org/MyProject/ http://example.org/MyProject/schema.xsd">
+
+	<text xml:id="Raccolta digitale delle opere di Giovanni Pascoli">
+		<item n="9.3" xml:id="X Agosto">
+			<dc:identifier xsi:type="SBN">IT\ICCU\RAV\0293396</dc:identifier>
+			<dc:title>X Agosto</dc:title>
+			<dc:creator xsi:type="mp:VIAF" mp:ref="https://viaf.org/viaf/39397405">Pascoli, Giovanni</dc:creator>
+			<dc:date type="creation">1903</dc:date>
+			<dc:date type="pubblication">2004</dc:date>
+			<dc:publisher>Roma : Biblioteca Italiana</dc:publisher>
+			<dc:subject xsi:lang="it">Poesia</dc:subject>
+			<dc:subject xsi:lang="it">Letteratura Italiana</dc:subject>
+			<dc:subject>900</dc:subject>
+			<dc:description>Poesia tratta dalla raccolta di Giovanni Pascoli "Myricae"</dc:description>
+			<dc:type>Poesia</dc:type>
+			<dc:format xsi:type="dcterms:BIBIT">electronic - 142578</dc:format>
+			<dc:language>ita</dc:language>
+			<dc:source xsi:type="dcterms:URI">http://www.bibliotecaitaliana.it/testo/bibit001525</dc:source>
+			<dc:coverage>Bologna, 2023-03-21</dc:coverage>
+			<dc:rights>Accesso libero per uso personale o scientifico.</dc:rights>
+		</item>
+	</text>
+	
+</mp:metadata>
+
+
+
+

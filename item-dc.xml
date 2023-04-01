@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mp:metadata xmlns:mp="http://example.org/MyProject/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://example.org/MyProject/ http://example.org/MyProject/schema.xsd">
+	<item xml:id="Poemetti">
+		<dc:title>Poemetti</dc:title>
+		<dc:creator xsi:type="mp:VIAF" mp:ref="https://viaf.org/viaf/39397405">Pascoli, Giovanni</dc:creator>
+		<dc:date type="pubblication">1900</dc:date>
+		<dc:publisher>Milano : R. Sandron</dc:publisher>
+		<dc:subject xsi:lang="it">Poesia</dc:subject>
+		<dc:subject xsi:lang="it">Letteratura Italiana</dc:subject>
+		<dc:subject>900</dc:subject>
+		<dc:description>Seconda edizione raddoppiata dei Poemetti di Giovanni Pascoli</dc:description>
+		<dc:identification xsi:type="mp:SOLO" mp:ref="https://solo.bodleian.ox.ac.uk/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=oxfaleph013023787&indx=1&recIds=oxfaleph013023787">013023787</dc:identification>
+		<dc:type>Poesia</dc:type>
+		<dc:format xsi:type="dcterms:SOLO" mp:ref="https://solo-aleph-prd.bodleian.ox.ac.uk/?func=direct&doc_number=013023787&format=999&local_base=BIB01">BK</dc:format>
+		<dc:language>ita</dc:language>
+		<dc:source xsi:type="dcterms:URI">http://dbooks.bodleian.ox.ac.uk/books/PDFs/N11052872.pdf</dc:source>
+		<dc:coverage>Bologna, 2023-03-21</dc:coverage>
+		<dc:rights>Accesso libero per uso personale o scientifico.</dc:rights>
+	</item>
+</mp:metadata>

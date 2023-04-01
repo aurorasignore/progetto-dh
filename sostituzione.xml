@@ -1,0 +1,16 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="x-agosto-testo.css"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+	<teiHeader>
+
+	</teiHeader>
+
+	<body>
+		<lg>
+			<l>ciao</l>
+			<p>hffusdjsb</p>
+			<l>jghrhrgf</l>
+		</lg>
+	</body>
+</TEI.2>	
