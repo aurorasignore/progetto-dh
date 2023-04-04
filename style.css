@@ -3,6 +3,11 @@ body {
   background-color: rgba(0, 206, 113, 0.1);
 }
 
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
 
 .navbar-brand  {
    font-family: 'Alex Brush';font-size: 40px
