@@ -11,11 +11,8 @@ Inoltre è presente una selezione di link a risorse già presenti su web che pos
 Accedi a 'La raccolta digitale completa delle opere di Giovanni Pascoli':
 
 Aurora Signore  
-
 Progetto d'esame per il corso DH e Patrimonio Culturale 
-
 Arti Visive  
-
 Alma Mater Studiorum - Università di Bologna
 
 
