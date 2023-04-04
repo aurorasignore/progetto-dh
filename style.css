@@ -14,49 +14,77 @@ h2 {
   font-size: 40px;
 }
 
+
 footer  {
   background-color: LightGray;
+  height: 180px;
+  margin-top: 100px;
+  text-align: left;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
+
 
 .fa {
   padding: 10px;
   font-size: 20px;
   width: 30px;
-  text-align: left;
+  text-align: center;
   text-decoration: none;
   margin: 5px 2px;
   border-radius: 50%;
 }
 
+
 .fa:hover {
     opacity: 0.7;
 }
+
 
 .fa-facebook {
   background: #3B5998;
   color: white;
 }
 
+
 .fa-instagram {
   background: #125688;
   color: white;
 }
 
+
+
 /* Index */
-#G {
-  font-family: Garamond, serif;
-  font-size: 60px;
+
+#carouselExampleSlidesOnly  {
+  height: 200px;
+  width: 700px;
 }
 
-#centro{
+
+#G {
+  font-family: Garamond, serif;
+  font-size: 50px;
+}
+
+
+#centro  {
   margin-top: 100px;
+  margin-left: -25px;
+  text-align: center;
   background-color: rgb(210, 210, 210, 0.3);
+  font-family: Garamond, serif;
+}
+
+#bottoni {
+  margin-top: 30px;
 }
 
 
 #sfondointro {
   background-color: #f0f0f0;
-  margin: 50px 50px 50px 50px;
+  margin: 200px 50px 50px;
   padding: 25px 25px;
 }
 
@@ -64,14 +92,18 @@ footer  {
 #intro {
   font-family: Garamond, serif;
   font-style: normal;
-  font-size: 20px
+  font-size: 20px;
+}
+
+#riga {
+  margin-top: 120px;
+
 }
 
 
 #card  {
   margin-top: 5px;
 }
-
 
 .card-text-i  {
   padding-top: 10px;
@@ -99,9 +131,16 @@ footer  {
   margin:0 auto;
 }
 
-#carouselhome{
-  margin-top: 80px;
+
+#carouselhome {
+  margin-top: 150px
 }
+
+
+.text-emphasis-dark  {
+  margin-bottom: 25px;
+}
+
 
 .carousel-caption  {
   background-color: rgb(210, 210, 210, 0.3);
@@ -109,40 +148,111 @@ footer  {
 }
 
 
+.carousel-control-next {
+    height: 30px;
+    width: 30px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 40%, 40%;
+    border-radius: 25%;
+    border: 1px solid black;
+    margin: auto;
+}
+
+
+.carousel-control-prev {
+    height: 30px;
+    width: 30px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 40%, 40%;
+    border-radius: 25%;
+    border: 1px solid black;
+    margin: auto;
+}
+
+
+
 /* Lista */
+
 #lato  {
   padding-left: 25px;
   padding-right: 10px;
 }
 
-.lista  {
-  height: 350px;
+
+.card-item {
+  height: 730px;
+  width: 290px;
 }
 
+
+.card-item .btn {
+  width: 100%;
+}
+
+
+.card-item img {
+  height: 400px;
+}
+
+
+.btn.btn-outline-success.fondo {
+  margin-top: 65px;
+}
+
+
+.btn.btn-outline-success.giu {
+  margin-top: 20px;
+}
+
+
 /* Persona */
+
 #persona {
 background-color: rgb(240, 240, 240);
 color: black;
 }
 
+
+#soggetto {
+  height: 400px;
+  width: 500px;
+  display:block;
+  margin:0px auto;
+}
+
+
+
 /* Item */
+
 #item {
 background-color: rgb(240, 240, 240);
 color: black;
 }
 
+
 #immagine  {
   max-width: 300px;
-  max-height:200px
-  margin: auto;
+  max-height:500px;
 }
 
 
 /* X Agosto */
-#testo  {
-  height: 700px;
-  width: 800px;
-  background: rgba(0, 128, 0, 0.3)
 
+#testo  {
+  height: 1000px;
+  width: 800px;
+  background: rgba(0, 128, 0, 0.3);
+  padding-left: 40px;
+  padding-yop:30px;
+}
+
+
+#agosto {
+  border-style: groove;
+  background-color: rgb(240, 240, 240);
+  margin-left: -60px;
+  padding: 10px;
 }
 

@@ -2,9 +2,11 @@ teiHeader  {
 	display: none;
 }
 
+
 head  {
 	display: none;
 }
+
 
 l {
 	font-size: 30px;
@@ -14,6 +16,7 @@ l {
 	text-align: left;
 	display: list-item;
 }
+
 
 lg  {
 	white-space: pre;

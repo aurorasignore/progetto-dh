@@ -9,9 +9,9 @@
 		<dc:subject xsi:lang="it">Letteratura Italiana</dc:subject>
 		<dc:subject>900</dc:subject>
 		<dc:description>Seconda edizione raddoppiata dei Poemetti di Giovanni Pascoli</dc:description>
-		<dc:identification xsi:type="mp:SOLO" mp:ref="https://solo.bodleian.ox.ac.uk/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=oxfaleph013023787&indx=1&recIds=oxfaleph013023787">013023787</dc:identification>
+		<dc:identification xsi:type="mp:SOLO">013023787</dc:identification>
 		<dc:type>Poesia</dc:type>
-		<dc:format xsi:type="dcterms:SOLO" mp:ref="https://solo-aleph-prd.bodleian.ox.ac.uk/?func=direct&doc_number=013023787&format=999&local_base=BIB01">BK</dc:format>
+		<dc:format xsi:type="dcterms:SOLO">BK</dc:format>
 		<dc:language>ita</dc:language>
 		<dc:source xsi:type="dcterms:URI">http://dbooks.bodleian.ox.ac.uk/books/PDFs/N11052872.pdf</dc:source>
 		<dc:coverage>Bologna, 2023-03-21</dc:coverage>
