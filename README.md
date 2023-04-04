@@ -8,7 +8,7 @@ Il progetto si trova ancora nella sua fase di sviluppo. Ad oggi sono presenti un
 
 Inoltre è presente una selezione di link a risorse già presenti su web che possono essere di supporto agli studi.
 
-Accedi a ###La raccolta digitale completa delle opere di Giovanni Pascoli':https://aurorasignore.github.io/progetto-dh/
+Accedi a ###La raccolta digitale completa delle opere di Giovanni Pascoli###:https://aurorasignore.github.io/progetto-dh/
 
 Aurora Signore  
 Progetto d'esame per il corso DH e Patrimonio Culturale 
